@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi  👋, I'm a website developer with a strong background in software engineering. I have extensive experience working with both front-end and back-end technologies, and I'm always looking for ways to improve my skills and stay up-to-date with the latest trends in web development.
 <!--
 **kamranasif506/kamranasif506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
