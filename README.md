@@ -2,6 +2,9 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 Hi 👋, I'm a website developer with a strong background in software engineering. I have extensive experience working with both front-end and back-end technologies, and I'm always looking for ways to improve my skills and stay up-to-date with the latest trends in web development.
 
+- 📚 I am participating in the Microverse program, a renowned remote software development program.
+- 👯 I’m looking for a software development oppertunities. 
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100007140454507) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/kamran-asif-b3a612130) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kamiasif55) 
